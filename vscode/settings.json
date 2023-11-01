@@ -1,0 +1,74 @@
+{
+    "vscode-neovim.neovimExecutablePaths.darwin": "/usr/local/bin/nvim",
+    "vscode-neovim.neovimInitVimPaths.darwin": "$HOME/.config/nvim/init.vim",
+    "vscode-neovim.neovimInitVimPaths.linux": "$HOME/.config/nvim/init.vim",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "vscode-neovim.neovimExecutablePaths.linux": "/usr/bin/nvim",
+    "editor.minimap.enabled": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "vscode-neovim.neovimExecutablePaths.win32": "C:\\tools\\neovim\\Neovim\\bin\\nvim.exe",
+    "vscode-neovim.neovimInitVimPaths.win32": "C:\\Users\\cdcal\\AppData\\Local\\nvim\\init.vim",
+  
+    // ICONOS DEL TEMA MONOKAI
+    // "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  
+    
+    "liveServer.settings.donotVerifyTags": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.linkedEditing": true,
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "workbench.sideBar.location": "right",
+    "window.menuBarVisibility": "compact",
+    
+    // terminal
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 13,
+    
+    // Fuente Empieza Conf (Victor Mono, monospace)
+        "editor.fontSize": 16,
+        "editor.lineHeight": 22,
+        // "editor.fontWeight": "500",
+        // Comic mono, Victor mono,
+        "workbench.iconTheme": "material-icon-theme",
+        "diffEditor.ignoreTrimWhitespace": false,
+        "terminal.integrated.cursorBlinking": true,
+        "git.openRepositoryInParentFolders": "never",
+        "editor.fontLigatures": false,
+        "hediet.vscode-drawio.resizeImages": null,
+        "workbench.colorTheme": "Default Dark+",
+        "window.zoomLevel": 2,
+        "editor.cursorSmoothCaretAnimation": "on",
+        "editor.fontFamily": "Comic mono",
+        "editor.tokenColorCustomizations": {
+          "textMateRules": [
+            {
+              "scope": ["punctuation.definition.comment", "comment"],
+              "settings": {
+                // "foreground": "#eade3a",
+                "fontStyle": "italic"
+  
+              }
+            },
+          ]
+      },
+      "redhat.telemetry.enabled": false,
+  }
